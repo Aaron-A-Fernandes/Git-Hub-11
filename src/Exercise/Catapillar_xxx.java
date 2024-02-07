@@ -7,4 +7,7 @@ public class Catapillar_xxx {
 		this.moves=moves;
 		this.cabbages=cabbages;
 	}
+	int get_moves() {
+		return moves;
+	}
 }
